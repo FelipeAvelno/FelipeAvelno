@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 - 🔭 Estou trabalhando em projetos pessoais
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Atualmente estou aprendendo Python e SQL
